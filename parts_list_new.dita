@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="parts_list_new">
+    <title>Parts List</title>
+    <refbody>
+        <example>
+            <p>A description of the individual parts and part numbers comprising the <ph
+                    keyref="computer_name"/>
+                <ph keyref="peripheral_name"/></p>
+        </example>
+        <example>
+            <p>
+                <table frame="none" rowsep="0" colsep="0" id="table_fpx_tvz_51c">
+                    <tgroup cols="2" align="center">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry><ph keyref="peripheral_name"/></entry>
+                                <entry>#</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry align="left">Door, Mini-Disk</entry>
+                                <entry><ph>1400212</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Door, Line Printer</entry>
+                                <entry><ph>1400212</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Door, Screen Printer</entry>
+                                <entry><ph>1400216</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Door, Future Expansion Board</entry>
+                                <entry><ph>1400216</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Hood, Mini-Disk</entry>
+                                <entry><ph>1400213</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Hood, Line Printer</entry>
+                                <entry><ph>1400213</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Hood, Screen Printer</entry>
+                                <entry><ph>1400218</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Hood, Future Expansion Board</entry>
+                                <entry><ph>1400218</ph></entry>
+                            </row>
+                            <row>
+                                <entry align="left">Hood, TRS-80 Microcomputer System</entry>
+                                <entry><ph id="ph_vhx_5x3_w1c">1400214</ph></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </example>
+        <example>
+            <p>
+                <table frame="none" rowsep="0" colsep="0" id="table_uyq_ywz_51c">
+                    <tgroup cols="2" align="center">
+                        <colspec colname="c1" colnum="1" colwidth="1*"/>
+                        <colspec colname="c2" colnum="2" colwidth="1*"/>
+                        <thead>
+                            <row>
+                                <entry><ph keyref="computer_name"/> MICROCOMPUTER SYSTEM</entry>
+                                <entry>#</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Door</entry>
+                                <entry><ph>1400083</ph></entry>
+                            </row>
+                            <row>
+                                <entry>Hood</entry>
+                                <entry><ph id="ph_bvp_5x3_w1c">1400217</ph></entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </example>
+    </refbody>
+</reference>

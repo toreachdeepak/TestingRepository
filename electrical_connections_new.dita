@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="electrical_connections_new">
+    <title>Electrical Connections</title>
+    <taskbody>
+        <context>
+            <p>Perform the following instructions to setup the electrical connections for peripheral
+                devices attaching to the <ph keyref="computer_name"/> computer.</p>
+        </context>
+        <steps id="steps_xms_ssz_51c">
+            <step>
+                <cmd>Turn the <ph keyref="computer_name" id="ph_njh_tsz_51c"/> so that it faces away
+                    from you. Locate the port Door (<ph>1400083</ph>); it's at the right end of the
+                    rear panel.</cmd>
+            </step>
+            <step>
+                <cmd>To remove the Door, raise it up and slide it to the right—then lift it up and
+                    away from the <ph keyref="computer_name"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Place the <ph keyref="computer_name"/> and <ph keyref="peripheral_name"/> Hoods
+                        (<ph conref="parts_list_new.dita#parts_list_new/ph_bvp_5x3_w1c"/> and <ph
+                        conref="parts_list_new.dita#parts_list_new/ph_vhx_5x3_w1c"/>) on the Ribbon
+                    Cable Connectors as shown in Figure 4. The Hoods replace the Door on the <ph
+                        keyref="computer_name"/> and fill the opening on the <ph
+                        keyref="peripheral_name"/>. These Hoods are designed so that it is not
+                    possible to insert the connectors upside down. They function as keyways for the
+                    connectors.</cmd>
+            </step>
+            <step>
+                <cmd>Now connect the Ribbon Cable between the left front <ph
+                        keyref="peripheral_name"/> port and the <ph keyref="computer_name"/>
+                    port.</cmd>
+            </step>
+            <step>
+                <cmd>Connect the DC Power Cord (DIN connector) to the POWER connector on the right
+                    rear of the <ph keyref="computer_name"/> and connect both AC Power Cords to
+                    standard <ph keyref="voltage_level"/> outlets.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
